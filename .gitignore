@@ -1,0 +1,7 @@
+.env
+*.log
+*.out
+*.bin
+*.exe
+*.pyc
+*.DS_Store
